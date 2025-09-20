@@ -1,16 +1,5 @@
 # buscaminas
 
-A new Flutter project.
+VS code se me cerró y ya no me quiso abrir para poder hacer coommit desde ahi.
+Por eso tuve que subir todo de manera manual esperando que funcione.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
